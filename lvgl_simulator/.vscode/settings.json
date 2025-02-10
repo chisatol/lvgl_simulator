@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sdl.h": "c",
+        "lv_demos.h": "c",
+        "simple_test.h": "c"
+    }
+}
